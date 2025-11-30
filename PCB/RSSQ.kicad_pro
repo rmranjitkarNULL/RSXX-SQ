@@ -609,6 +609,27 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "e9cd8552-a55f-4a0c-81be-0de8f48f955a",
+      "Root"
+    ],
+    [
+      "f65c7146-c72f-4abe-b6b7-aa8fb4db54e1",
+      "nRF52840"
+    ],
+    [
+      "2196fd59-5242-4205-ac90-fb4dde66861c",
+      "ESP8285"
+    ],
+    [
+      "92b75bc1-2b49-48bf-b23f-33632a6d018f",
+      "Keyboard"
+    ],
+    [
+      "68cef430-ca3e-4508-8cc7-d70f99b08728",
+      "USB-C"
+    ]
+  ],
   "text_variables": {}
 }

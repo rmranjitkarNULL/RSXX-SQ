@@ -2,9 +2,177 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid e9cd8552-a55f-4a0c-81be-0de8f48f955a)
+	(uuid "e9cd8552-a55f-4a0c-81be-0de8f48f955a")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 145.415 55.245)
+		(size 55.88 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2196fd59-5242-4205-ac90-fb4dde66861c")
+		(property "Sheetname" "ESP8285"
+			(at 145.415 54.5334 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP8285.kicad_sch"
+			(at 145.415 81.2296 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RSSQ"
+				(path "/e9cd8552-a55f-4a0c-81be-0de8f48f955a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 47.625)
+		(size 37.465 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "68cef430-ca3e-4508-8cc7-d70f99b08728")
+		(property "Sheetname" "USB-C"
+			(at 59.69 46.9134 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB-C.kicad_sch"
+			(at 59.69 63.4496 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RSSQ"
+				(path "/e9cd8552-a55f-4a0c-81be-0de8f48f955a"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 145.415 90.805)
+		(size 64.77 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "92b75bc1-2b49-48bf-b23f-33632a6d018f")
+		(property "Sheetname" "Keyboard"
+			(at 145.415 90.0934 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Keyboard.kicad_sch"
+			(at 145.415 118.0596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RSSQ"
+				(path "/e9cd8552-a55f-4a0c-81be-0de8f48f955a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 29.21)
+		(size 53.34 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f65c7146-c72f-4abe-b6b7-aa8fb4db54e1")
+		(property "Sheetname" "nRF52840"
+			(at 144.78 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "nRF52840.kicad_sch"
+			(at 144.78 46.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "RSSQ"
+				(path "/e9cd8552-a55f-4a0c-81be-0de8f48f955a"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
